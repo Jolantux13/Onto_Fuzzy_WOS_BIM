@@ -1,0 +1,333 @@
+﻿label	replace by
+ability	
+absence	
+accordance	
+account	
+addition	
+advance	
+advantage	
+advent	
+age	
+aim	
+air	
+amount	
+applicability	
+application	
+approach	
+area	
+art	
+article	
+aspect	
+attempt	
+author	
+average	
+awareness	
+barrier	
+bas	building automation system
+basis	
+benefit	
+better understanding	
+bim software	bim tool
+bims	bim
+ble	
+building design process	building design
+building information model	bim
+building information modeling	bim
+building information modelling	bim
+building information models	bim
+building information	bim
+building owner	client
+building performance	building energy performance
+building space	
+building type	
+calculation	
+canada	
+carbon footprint	carbon emission
+case	
+case study	
+cause	
+challenging task	
+change	
+china	
+city	
+co2 emission	carbon emission
+coefficient	
+comparison	
+component	building element
+computer	
+concept	
+concrete	
+consideration	
+construction sector	construction industry
+context	
+contrast	
+contribution	
+country	
+creation	
+criterium	
+critical review	
+crutial role	
+current practice	
+current state	
+customer	client
+date	
+decade	
+decision making process	decision making
+decision	decision making
+design phase	building design
+design process	building design
+design stage	building design
+design	building design
+detail	
+developed system	
+development framework	
+diagnosis	
+difference	
+document	
+domain	
+door	
+early design stage	early design
+early stage	early design
+effect	
+effective approach	
+effective way	
+effectiveness	
+effort	
+element	building element
+emphasis	
+end	
+energy consumption	energy use
+energy modeling	energy simulation
+energy performance	building energy performance
+energy usage	energy use
+enhancement	
+error	
+establishment	
+eui	
+europe	
+european union	
+evidence	
+examination	
+expectation	
+experience	
+experimental result	
+expert	
+extent	
+fact	
+feasibility	
+field	
+finding	
+first step	
+floor	
+focus	
+focus group	
+function	
+further research	
+future research direction	
+future studies	
+future	
+future research	
+geographical information system	gis
+ghg	greenhouse gas
+goal	
+graph	
+great potential	
+greenhouse gas emission	greenhouse gas
+guideline	
+hand	
+help	
+high level	
+holistic approach	
+hong kong	
+i e	
+idea	
+identification	
+year	
+ifc	industry foundation class
+iii	
+implication	
+importance	
+important role	
+inclusion	
+incorporation	
+increase	
+india	
+information model	information modelling
+information modeling	information modelling
+information technology	IT
+informed decision	
+instance	
+intention	
+internet	web
+interview	
+investigation	
+iran	
+issue	
+italy	
+journal	
+key factor	
+key role	
+kind	
+korea	
+kwh	
+labor	
+lack	
+large amount	
+large number	
+last decade	
+latter	
+leadership	
+lesson	
+leverage	
+life cycle assessment	lca
+lifecycle	life cycle
+light	lighting
+line	
+link	
+literature	
+literature review	
+main aim	
+main contribution	
+main goal	
+main objective	
+majority	
+malaysia	
+material	
+mean	
+mind	
+modelica	
+modeling	modelling
+nature	
+new approach	
+new method	
+new opportunity	
+novel approach	
+number	
+object	
+obstacle	
+office	
+one	
+option	
+order	
+originality value	
+outcome	
+overview	
+paper	
+participant	
+past decade	
+perception	
+performance gap	
+person	
+place	
+point	
+policy	
+potential approach	
+practical application	
+practitioner	
+pre	
+present	
+previous study	
+product	
+production	
+program	
+promise	
+property	
+proposal	
+proposed approach	
+publication	
+purpose	
+question	
+range	
+recent year	
+reduction	
+reference	
+regard	
+region	
+relation	
+research gap	
+research limitation implication	
+research limitations implication	
+research project	
+research work	
+researcher	
+respect	
+response	
+return	
+reuse	
+review	
+rule	
+safety	
+same time	
+sample	
+saudi arabia	
+scope	
+selection	decision making
+semi	
+seoul	
+series	
+service	
+set	
+significant amount	
+significant impact	
+significant role	
+singapore	
+systematic literature review	
+systematic review	
+size	
+skill	
+software tool	software
+south korea	
+space	building spaces
+spain	
+stakeholder	
+standard	
+state	
+steel	
+study	
+subject	
+success	
+successful implementation	
+suggestion	
+survey	
+sustainable building	sustainability
+sustainable design	sustainability
+taiwan	
+tally	
+task	
+term	
+thank	
+thing	
+type	
+today	
+top	
+topic	
+total	
+trade	
+training	
+transportation	
+trend	
+turn	
+uk government	
+united state	
+united states	
+use case	
+variance	
+variety	
+version	
+view	
+vision	
+volume	
+way	
+wall	building element
+water	
+weight	
+whole building	
+wide range	
+window	building element
+work	
+world	
+part	
+role	
+need	
+example	
+research direction	
